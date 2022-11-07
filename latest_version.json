@@ -1,9 +1,8 @@
 {
-    "version": "2.0.5",
-    "date": "2022-10-24",
-    "title": "Change frame report event type.",
+    "version": "2.0.6",
+    "date": "2022-11-07",
+    "title": "Added serial break signal feature.",
     "changelog": [
-        "- Move CHANGELOG file to other repo to prevent confidential data leak.",
-        "- No more detail update will be shown."
+        "- See CHANGELOG for more details"
     ]
 }
