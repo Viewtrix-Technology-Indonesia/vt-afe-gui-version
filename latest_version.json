@@ -1,7 +1,7 @@
 {
-    "version": "2.1.0",
-    "date": "2022-12-19",
-    "title": "Medium major upgrade",
+    "version": "2.1.1",
+    "date": "2023-03-13",
+    "title": "Fix received serial latched data issue.",
     "changelog": [
         "- See CHANGELOG for more details"
     ]
