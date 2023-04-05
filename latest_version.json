@@ -1,7 +1,9 @@
 {
-    "version": "2.1.2",
-    "date": "2023-03-14",
-    "title": "Optimize serial data transfer.",
+    "version_num": 33619971,
+    "version_str": "2.1.3",
+    "version": "2.1.3",
+    "date": "2023-04-05",
+    "title": "Speed up serial data transfer and more improvement.",
     "changelog": [
         "- See CHANGELOG for more details"
     ]
