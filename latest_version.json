@@ -1,9 +1,9 @@
 {
-    "version_num": 33619972,
-    "version_str": "2.1.4",
-    "version": "2.1.4",
-    "date": "2023-04-12",
-    "title": "Speed up report handling and more improvement.",
+    "version_num": 33619973,
+    "version_str": "2.1.5",
+    "version": "2.1.5",
+    "date": "2023-04-17",
+    "title": "Optimize codebase for faster report visualization.",
     "changelog": [
         "- See CHANGELOG for more details"
     ]
