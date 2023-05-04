@@ -1,9 +1,9 @@
 {
-    "version_num": 33619974,
-    "version_str": "2.1.6",
-    "version": "2.1.6",
-    "date": "2023-04-17",
-    "title": "Fix updater fail issue (please force re-download).",
+    "version_num": 33619975,
+    "version_str": "2.1.7",
+    "version": "2.1.7",
+    "date": "2023-05-04",
+    "title": "Added repot data serialization feature.",
     "changelog": [
         "- See CHANGELOG for more details"
     ]
